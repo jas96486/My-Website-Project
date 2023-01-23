@@ -15,5 +15,6 @@ AWS Command Line Interface (AWS CLI) used to check the status of the Website.
 
 ![image](https://user-images.githubusercontent.com/104744741/213939118-757a38d2-a21b-4785-9dcd-f296a901d24d.png)
 
-result of the Website.
-![image](https://user-images.githubusercontent.com/104744741/213939128-744596b3-b5a4-4200-b77a-c3b9d762b244.png)
+result of the Website code.
+![image](https://user-images.githubusercontent.com/104744741/213949013-86d75ffc-cca1-48cb-9957-9daf6417634f.png)
+
